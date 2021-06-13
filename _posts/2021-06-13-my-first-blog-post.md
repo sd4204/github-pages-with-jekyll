@@ -1,5 +1,7 @@
+---
 title: "Info & Accomplishments"
 date: 2021-06-13
+---
 author: Siri
 description: > # this means to ignore newlines until "baseurl:"
 - Received the 2021 GMCWCA All-Star Wrestler award (Gold)
